@@ -1,9 +1,16 @@
+p {
+font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	
+}
+
 .header {
-    padding: 10px;
+    padding: 10px, 10px, 10px, 10px;
+	height: 160px;
     text-align: center;
-    background: #1abc9c;
+    background: #dddddd;
     color: white;
-    font-size: 30px;
+    font-size: 20px;
   }
 
   .footer {
@@ -16,7 +23,7 @@
     text-align: center;
   }
   
-  #logo {
+#logo {
     text-align: left;
     margin: 0 auto;
 }
@@ -24,7 +31,8 @@
 #logobox {
     height: 80px;
 	text-align: left;
-    margin: -10px 10px 0;
+    /* margin: -10px 10px 0; */
+	margin: auto;
 }
 
 #leaflogo {
@@ -33,3 +41,33 @@
     position: absolute;
     margin: -13px -5px 0;
 }
+
+a:header-links {
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+a:header-links visited {
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+a:link, a:visited {
+  background-color: ;
+  color: #333333;
+  padding: 14px 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #bbbbbb;
+}
+
+
