@@ -7,7 +7,7 @@
   }
 
   .footer {
-    position: fixed;
+    position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -15,3 +15,21 @@
     color: white;
     text-align: center;
   }
+  
+  #logo {
+    text-align: left;
+    margin: 0 auto;
+}
+
+#logobox {
+    height: 80px;
+	text-align: left;
+    margin: -10px 10px 0;
+}
+
+#leaflogo {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    margin: -13px -5px 0;
+}

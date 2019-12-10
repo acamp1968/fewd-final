@@ -9,11 +9,10 @@
 
 <body>
 <!--#include file="header.html" -->
-<script language="javascript">displayHeader('header.html');</script>
 
   <p></br></br></br>Test Live</p>
 
-<!--#include virtual="/footer.html" -->
+<!--#include virtual="footer.html" -->
 
 </body>
 </html>
