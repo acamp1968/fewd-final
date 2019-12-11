@@ -5,6 +5,14 @@ body {
   background-color: gray;
 }
 
+.page2 {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0px;
+  font-size: 25px;
+  background-color: brown;
+}
+
+
 .clearfix {
   clear: both;
 }
@@ -24,12 +32,18 @@ main {
   width: 1000px;
   height: 550px;
   align-items: center;
+  border-color: black;
+  border-width: 1px;
 }
 
 .logo2 img {
   width: 1500px;
   height: 750px;
-  align-items: center;
+  
+}
+
+H1 {
+  text-align: center;
 }
 
 .scroll {
