@@ -10,7 +10,9 @@
 <body>
 <!--#include file="header.html" -->
 
-  <div class="body-content"></br></br></br>Test Live website</div>
+  <p></br></br></br>Staff</p>
+  
+  <p></br></br></br>Why created</p>
 
 <!--#include virtual="footer.html" -->
 
