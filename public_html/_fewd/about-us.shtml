@@ -4,23 +4,19 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="style.css"> 
 <script src="script.js"></script>
-<title>CPR - About US</title>
+<title>Final Project - FEWD 2019</title>
 </head>
 
 <body>
 <!--#include file="upper-header.html" --><br />
 <!--#include file="header.html" -->
-
-  <div class="body-content">
-  
-    <p></br></br></br>Staff</p>
-  
-  <p></br></br></br>Why created</p></div>
+<!-- <div class="hero-image"><div class="hero-text"><h1>Welcome</h1> 
+<p>We can help you!</p>
+    <button>Learn more</button></div></div> -->
+<div class="body-content"><h1>About C.P.R</h1><p><img src="images/sample-house1.jpg" align="right" width="400" height="266" alt="Sample home" />Creative Property Resolutions was established to assist homeowner who ae experiencing distress through foreclosures, bankruptcies, estate sales and unsellable properties.</p></div>
 
 <!--#include virtual="footer.html" -->
 
 </body>
 </html>
-
-
 
