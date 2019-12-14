@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  height: 100px;
+  background-color: rosybrown;
+  border-bottom: 2px solid black;
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  display: flex;
+  width: 80%;
+}
+
+.column {
+  background-color: #eef;
+  border: 1px solid gray;
+  margin: 10px;
+  padding: 10px;
+}
+
+.column img {
+  width: 100%;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 750px)
+{
+
+header
+{   background-color: blue;
+}
+
+.column img
+{   width: 50%;
+    border: 5px solid red;
+}
+
+.column
+{   font-style: italic;
+    background-color: coral;
+    text-align: center;
+}
+
+h4
+{    text-decoration: underline;
+}
+
+.container  
+{   border: 2px dashed black;
+    flex-direction: column;
+}
+
+}
