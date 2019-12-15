@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="style.css"> 
 <script src="script.js"></script>
-<title>About CPR</title>
+<title>CPR - Unsellable Property</title>
 </head>
 
 <body>
@@ -13,12 +13,8 @@
 <!-- <div class="hero-image"><div class="hero-text"><h1>Welcome</h1> 
 <p>We can help you!</p>
     <button>Learn more</button></div></div> -->
-<div class="body-content"><h1>About C.P.R</h1><p><img src="images/map.png" align="right" width="497" height="428" alt="Sample home" />Creative Property Resolutions was established to assist homeowner who ae experiencing distress through foreclosures, bankruptcies, estate sales and unsellable properties.</p>
-  <p>Conveniently located at 1843 Central Avenue, #230<br />
-    Albany, NY 12205
-  </p>
-  <p>&nbsp;</p>
-</div>
+<div class="body-content">
+  <h1>Unsellable Property?</h1><p><img src="images/sample-house1.jpg" align="right" width="400" height="266" alt="Sample home" />Properties that are on the market but not selling may also be accepted.</p></div>
 
 <!--#include virtual="footer.html" -->
 

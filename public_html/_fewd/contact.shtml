@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="style.css"> 
+<script src="script.js"></script>
+<title>CPR - Contact Us</title>
+</head>
+
+<body>
+<!--#include file="upper-header.html" -->
+<!--#include file="header.html" -->
+<div class="body-content">
+  <h1>Contact Us</h1><p><img src="images/sample-house1.jpg" align="right" width="400" height="266" alt="Sample home" />Creative Property Resolutions was established to assist homeowner who ae experiencing distress through foreclosures, bankruptcies, estate sales and unsellable properties.</p>
+  <p>Call us at 518.894.1475 or fill out the form below to get the process started. </p><br />
+  <form id="form1" name="form1" method="post" action="">
+    <p><label for="name">Name: </label><input type="text" name="name" id="name" /></p>
+    
+    <p><label for="name">Email: </label>
+    <input type="text" name="email" id="email" /></p>
+    <p><label for="name">My Request: </label><br />
+
+    <textarea name="Subject" cols="35" rows="5"></textarea></p>
+    <input name="Submit" type="button" value="Submit" />
+  </form>
+  <p>&nbsp;</p>
+</div>
+
+<!--#include virtual="footer.html" -->
+
+</body>
+</html>
+

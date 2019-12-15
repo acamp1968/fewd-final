@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="style.css"> 
+<script src="script.js"></script>
+<title>CPR services</title>
+</head>
+
+<body>
+<!--#include file="upper-header.html" --><br />
+<!--#include file="header.html" -->
+<!-- <div class="hero-image"><div class="hero-text"><h1>Welcome</h1> 
+<p>We can help you!</p>
+    <button>Learn more</button></div></div> -->
+<div class="body-content">
+  <h1>Our Services</h1><p><img src="images/sample-house1.jpg" align="right" width="400" height="266" alt="Sample home" />Creative Property Resolutions was established to assist homeowner who ae experiencing distress through foreclosures, bankruptcies, estate sales and unsellable properties.</p>
+  <p>Creative Property Resolutions, LLC helps Homeowners who are no longer able to afford their home.</p>
+  <p>A homeowner facing a possible foreclosure or otherwise wanting to leave the home is still listed on the deed and liable for personal injury or local property maintenance fines.</p>
+  <p>CPR offers a unique opportunity for such homeowners to unburden themselves from the property.</p>
+  <p>CPR is looking for suitable properties throughout New York state.</p>
+  <p>Call us at 518-894-1475 to discuss how our solutions can help you solve your home ownership problems. </p>
+</div>
+
+<!--#include virtual="footer.html" -->
+
+</body>
+</html>
+
