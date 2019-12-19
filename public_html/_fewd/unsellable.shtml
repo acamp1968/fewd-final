@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="style.css"> 
+<script src="script.js"></script>
+<title>CPR - Unsellable Property</title>
+</head>
+
+<body>
+<!--#include file="upper-header.html" --><br />
+<!--#include file="header.html" -->
+<!-- <div class="hero-image"><div class="hero-text"><h1>Welcome</h1> 
+<p>We can help you!</p>
+    <button>Learn more</button></div></div> -->
+<div class="body-content">
+  <h1>Unsellable Property?</h1><p><img src="images/sample-house1.jpg" align="right" width="400" height="266" alt="Sample home" />Properties that are on the market but not selling may also be accepted.</p></div>
+
+<!--#include virtual="footer.html" -->
+
+</body>
+</html>
+
