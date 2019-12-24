@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" href="style.css"> 
+<link rel="stylesheet" href="style-footer.css"> 
 <script src="script.js"></script>
 <title>CPR - Estate Properties</title>
 </head>
@@ -10,11 +10,11 @@
 <body>
 <!--#include file="upper-header.html" --><br />
 <!--#include file="header.html" -->
-<!-- <div class="hero-image"><div class="hero-text"><h1>Welcome</h1> 
-<p>We can help you!</p>
-    <button>Learn more</button></div></div> -->
 <div class="body-content">
-  <h1>Estate Property?</h1><p><img src="images/sample-house1.jpg" align="right" width="400" height="266" alt="Sample home" />Perfect for Elderly Homeowners Who Seek to Leave Their Homes that are Encumbered by traditional or Reverse Mortgages.</p></div>
+<h1>Estate Property?</h1>
+<h2>Perfect for Elderly Homeowners Who Seek to Leave Their Homes that are Encumbered by traditional or Reverse Mortgages.</h2>
+
+<img src="images/schuyler.jpg" alt="Schuyler Mansion by Matt H. Wade" width="400" height="293" align="right" />In Common Law it is the sum of a person's asssests such as legal rights, interests and entitlements to a property of any kind. It can also be a reference to an estate in land or of a paqrticular kind of property (Real Estate or Personal Estate). </div>
 
 <!--#include virtual="footer.html" -->
 

@@ -18,6 +18,11 @@ h2 {
 	font-size: 44px;
 	
 }
+
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+} 
 	
  /* unvisited link */
 a:link {
@@ -45,16 +50,53 @@ a:active {
 body, html {
 	margin: 0;
 	padding: 0;
-	height: 100%;
+	width: 100%;
 }
 
 .body-content {
-	padding: 25px;
-	margin: 15px;
+	position: relative;
 	margin: 0 auto;
-	width: 80%;
-	/* min-height: 100%; */
+	/* padding: 25px;
+	margin: 15px;
+	width: 80%; */
+	
 }
+
+.content2 {
+	position: relative;
+	margin-left: 75px;
+	margin-right: 75px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	min-width: 80%;
+	min-height: 100%;
+}
+
+
+/* Footer styling */
+
+#content-wrap {
+	padding-bottom: 100px;
+
+	    /* Footer height */
+}
+
+.footer {
+    position: absolute;
+	padding: 20px;
+    bottom: 0;
+    width: 100%;
+    background-color: #333333;
+    color: white;
+    text-align: center;
+  }
+  
+.footer-body2 {
+	  margin: 0;
+	padding: 0;
+	width: 100%;
+  }
+  
 
 /*Header styling */
 
@@ -95,18 +137,7 @@ body, html {
 	/* padding-bottom: 20px; */
   }
 
-/* Footer styling */
 
-  .footer {
-    position: absolute;
-	padding: 20px;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #333333;
-    color: white;
-    text-align: center;
-  }
   
 /* Header Logo area styling */
   
@@ -827,3 +858,58 @@ a:hover, a:active {
 			}
 
 		}
+
+/* CAshline CSS */
+
+* {
+  box-sizing: border-box;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+
+.container {
+  margin: 0 auto;
+  display: flex;
+  width: 80%;
+}
+
+.column {
+  background-color: #eef;
+  border: 1px solid gray;
+  margin: 10px;
+  padding: 10px;
+}
+
+.column img {
+  width: 100%;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 750px)
+{
+
+
+.column img
+{   width: 50%;
+    border: 5px solid red;
+}
+
+.column
+{   font-style: italic;
+    background-color: coral;
+    text-align: center;
+}
+
+h4
+{    text-decoration: underline;
+}
+
+.container  
+{   border: 2px dashed black;
+    flex-direction: column;
+}
+
+}
+

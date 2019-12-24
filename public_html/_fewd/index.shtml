@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" href="style.css"> 
+<link rel="stylesheet" href="style-footer.css"> 
 <script src="script.js"></script>
 <title>Final Project - FEWD 2019</title>
 </head>
@@ -14,7 +14,15 @@
 <p>We can help you!</p>
     <button><a href="about-us.shtml">Learn more</a></button></div></div>
 <div class="body-content"><h1>Welcome to C.P.R</h1>
-  <p>Creative Property Resolutions was established to assist homeowner who ae experiencing distress through foreclosures, bankruptcies, estate sales and unsellable properties.</p></div>
+  <h2>Creative Property Resolutions, LLC helps Homeowners who are no longer able to afford their home.</h2>
+  <p>A homeowner facing a possible foreclosure or otherwise wanting to leave the home is still listed on the deed and liable for personal injury or local property maintenance fines.<br />
+  </p>
+  <p>CPR offers a unique opportunity for such homeowners to unburden themselves from the property.<br />
+  </p>
+  <p>CPR is looking for suitable properties throughout New York state.<br />
+  Call us at 518-894-1475 to discuss how our solutions can help you solve your home ownership problems.</p>
+  <p>&nbsp;</p>
+</div>
 
 <!--#include virtual="footer.html" -->
 

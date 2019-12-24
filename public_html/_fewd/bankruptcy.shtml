@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" href="style.css"> 
+<link rel="stylesheet" href="style-footer.css"> 
 <script src="script.js"></script>
 <title>CPR - Bankruptcy</title>
 </head>
@@ -10,14 +10,18 @@
 <body>
 <!--#include file="upper-header.html" --><br />
 <!--#include file="header.html" -->
-<!-- <div class="hero-image"><div class="hero-text"><h1>Welcome</h1> 
-<p>We can help you!</p>
-    <button>Learn more</button></div></div> -->
 <div class="body-content">
   <h1>Bankrupt?</h1>
-<p><img src="images/sample-house1.jpg" align="right" width="400" height="266" alt="Sample home" />If you intend to surrender the home in a bankruptcy, Contact Us First!!</p></div>
+<p><img src="images/1CCastleCourt.jpg" align="right" width="400" height="300" alt="Sample home" /><h2>If you intend to surrender the home in a bankruptcy, Contact Us First!!</h2>
+<p>Helps people who can no longer pay their debts get a fresh start by either liquidating 
+  assets <b>(Chapter 7)</b> or by creating a repayment plan <b>(Chapter 13)</b>. </p>
+<p>Bankrupcy is a tool to for people who have fallen behind for many reasons such as medical bills, lose of job, health reasons, divorce and others.
+  During bankruptcy a person can either surrender their house and be exonerated from all debts or go to loss metigation and restructure loan. </p>
+</div></div>
 
+</div>
 <!--#include virtual="footer.html" -->
+
 
 </body>
 </html>

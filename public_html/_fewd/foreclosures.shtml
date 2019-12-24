@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" href="style.css"> 
+<link rel="stylesheet" href="style-footer.css"> 
 <script src="script.js"></script>
 <title>CPR - foreclosures</title>
 </head>
@@ -15,7 +15,14 @@
     <button>Learn more</button></div></div> -->
 <div class="body-content">
   <h1>We accept properties in foreclosure</h1>
-  <p><img src="images/sample-house1.jpg" align="right" width="400" height="266" alt="Sample home" />Pre- or post foreclosure action filing properties may be accepted.</p></div>
+  <p><img src="images/WeatherCrest.jpg" align="right" width="400" height="300" alt="Sample home" /><strong>Pre-Foreclosure:</strong></p>
+  <p>The bank files a <strong>notice of default</strong> that states the owner has fallen behind on there mortgage payments or has defaulted on there mortgage loan. </p>
+  <p><strong>Foreclosure:</strong></p>
+  <p>Is the process where the homeowner transfers the right of ownership of the home to the bank or a lender after the owner <strong>defaults </strong>(falls behind on payments to their loan). Properties go into foreclosure if they usually miss 3 or more payments on there loan. Foreclosure can impact negatively on the homeowners credit score. </p>
+  <p><strong>Post-Foreclosure:</strong></p>
+  <p>The lender has taken control of the property or the property is in the hands of a new owner or investor who purchased the property at auction. </p>
+  <p>.</p>
+</div>
 
 <!--#include virtual="footer.html" -->
 
